@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 00000000000000000000000000000000
+  productGUID: a3f1754ca789ceb478d5f5cf5cf43eca
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -333,7 +333,9 @@ PlayerSettings:
   - m_BuildTarget: tvOS
     m_Enabled: 0
     m_Devices: []
-  m_BuildTargetEnableVuforiaSettings: []
+  m_BuildTargetEnableVuforiaSettings:
+  - m_BuildTarget: Standalone
+    m_Enabled: 1
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   m_TemplateCustomTags: {}
@@ -703,7 +705,7 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: c54655aa-8640-4d18-be96-cbba33de4947
   framebufferDepthMemorylessMode: 0
-  projectName: EffectsExamples
+  projectName: demoMarker
   organizationId: unity_kmzsj3hmuyejqq
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

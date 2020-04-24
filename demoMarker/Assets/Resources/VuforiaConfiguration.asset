@@ -57,7 +57,7 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
     arcoreRequirement: 0
-    trackingMode: 0
+    trackingMode: 1
     posePrediction: 0
     modelCorrectionMode: 0
     modelTransformEnabled: 0
@@ -66,6 +66,6 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: 
+    deviceNameSetInEditor: Integrated Camera
     turnOffWebCam: 0
     renderTextureLayer: 30
