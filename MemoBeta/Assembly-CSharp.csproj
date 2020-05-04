@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\LvlMgr.cs" />
      <Compile Include="Assets\Rotatee.cs" />
+     <Compile Include="Assets\Scenes\EventCollider.cs" />
      <Compile Include="Assets\Scenes\LineR.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />

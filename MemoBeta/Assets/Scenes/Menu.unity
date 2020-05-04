@@ -433,7 +433,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SinglePlayer
+          m_StringArgument: Tutorial
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &311239154
@@ -1344,9 +1344,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Options
-
-'
+  m_Text: Credits
 --- !u!222 &1242226248
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1565,7 +1563,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e56c2cfd2d5db77469c6e3c7bd0adace, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4a6643caee36e8e4e9026d5d7ce866ba, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.106
   m_Pitch: 1
@@ -1733,7 +1731,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SinglePlayer
+  m_Text: 'View Tutorial '
 --- !u!222 &1688713611
 CanvasRenderer:
   m_ObjectHideFlags: 0
