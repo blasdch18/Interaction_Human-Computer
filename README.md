@@ -1,7 +1,8 @@
-# Interaction_Human-Computer
+# Interaction_Human-Computer _ Proyecto MemoMotion
+
 
 Introducción:
-
+DEMO : https://www.youtube.com/watch?v=G6qAa9lCe1Q 
 GitHub : https://github.com/blasdch18/Interaction_Human-Computer
 
 
